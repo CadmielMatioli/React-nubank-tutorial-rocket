@@ -19,11 +19,11 @@ export default function Main(){
           </CardHeader>
           <CardContent>
             <Title>Saldo Disponível</Title>
-            <Description>R$ 190.530,91</Description>
+            <Description>R$150,91</Description>
           </CardContent>
           <CardFooter>
             <Annotation>
-              Transferência de R$20,00 recebida de Silvio Capelo hoje às 06:00h
+              Transferência de R$20,00 recebida de Josué Verbal hoje às 06:00h
             </Annotation>
           </CardFooter>
         </Card>

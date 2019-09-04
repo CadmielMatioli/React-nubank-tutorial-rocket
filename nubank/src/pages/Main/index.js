@@ -72,7 +72,7 @@ export default function Main(){
             </CardHeader>
             <CardContent>
               <Title>Saldo Disponível</Title>
-              <Description>R$150,91</Description>
+              <Description>R$150.000,91</Description>
             </CardContent>
             <CardFooter>
               <Annotation>
